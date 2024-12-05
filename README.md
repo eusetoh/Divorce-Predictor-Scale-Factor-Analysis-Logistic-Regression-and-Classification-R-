@@ -33,6 +33,7 @@ Logistic Regression and Classification
     4. Choose model with compatibility as final model due to better classification results and higher pseudo-R2
 
 Conclusions and Limitations
-    1. Factor Structure needs improvement. With poor fit and non-homogenous factors, theorectically should not have proceeded with Logistic Regression
-    2. Logistic model surprisingly had extremely high accuracy (>95%). Might have risk of overfitting. Need to validate model with another sample.
+
+1. Factor Structure needs improvement. With poor fit and non-homogenous factors, theorectically should not have proceeded with Logistic Regression
+2. Logistic model surprisingly had extremely high accuracy (>95%). Might have risk of overfitting. Need to validate model with another sample.
           
